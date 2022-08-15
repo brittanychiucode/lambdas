@@ -1,0 +1,8 @@
+1. Insta;; AWS Toolkit extension
+2. install SAM 
+brew tap aws/tap
+brew install aws-sam-cli
+
+3. Make sure /Users/brittany/Library/Application Support/Code/Workspaces/1660541095496/workspace.json has right python versiion
+
+https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/serverless-apps.html#serverless-apps-create

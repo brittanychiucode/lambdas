@@ -1,3 +1,4 @@
+docker installed
 1. Insta;; AWS Toolkit extension
 2. install SAM 
 brew tap aws/tap
@@ -6,3 +7,4 @@ brew install aws-sam-cli
 3. Make sure /Users/brittany/Library/Application Support/Code/Workspaces/1660541095496/workspace.json has right python versiion
 
 https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/serverless-apps.html#serverless-apps-create
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
